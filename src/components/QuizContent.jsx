@@ -18,8 +18,6 @@ useEffect(() => {
         'https://opentdb.com/api.php?amount=5&category=21&difficulty=medium&type=multiple'
       );
       const data = await res.json();
-      // setQuiz(data.results);
-      console.log('render')
       // Set data and format data to our object.
         setNewQuiz(data.results.map((quiz) => {
             return {
