@@ -1,5 +1,51 @@
-# Getting Started with Create React App
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
+
+<div align='center'>
+    <h1>Quizzical </h1>
+    <p>Random sports quizzes. Built with React, and CSS.</p>
+        <a href='https://www.linkedin.com/in/plang-psm/' target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tag" /></a>
+</div>
+
+
+## Table of Contents
+* [Description](#description)
+* [Technologies](#technologies)
+* [Road Map](#road-map)
+* [Launch](#launch)
+* [Contact](#contact)
+* [Resources](#resources)
+
+<img width="1534" alt="image" src="https://user-images.githubusercontent.com/101952500/197141140-20f2187e-b066-4d74-9391-a886c1325d89.png">
+
+
+
+## Description
+Quizzical is a web application that pulls a random sports questions from the Open Trivia Database API. The user will be given 5 random questions regarding sports and will be scored once finished. Press play again to try again!
+
+## Technologies
+* <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React tag"  />
+* <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS tag"  />
+
+
+## Road Map
+- [ ] More quiz selections.
+    - [ ] Create your own quiz?
+    - [ ] More topic choices.
+    - [ ] More amount of question choices.
+- [ ] Share button.
+
+## Launch
+You can open the project here:
+[Quizzical](https://plang-psm.github.io/quizzical/)
+ or
+ 
+<details>
+<summary>Launch</summary>
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -68,4 +114,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# quizzical
+# meme-generator
+</details>
+
+## Contact
+<a href='https://www.linkedin.com/in/plang-psm/' target='_blank'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn tag" /></a>
+
+## Resources
+Badges: <a href='https://github.com/Ileriayo/markdown-badges' target='_blank'>Copyright (c) 2020 Ileriayo Adebiyi</a>
+
+Header and Layout: <a href='https://github.com/othneildrew/Best-README-Template' target='_blank'>Copyright (c) 2021 Othneil Drew</a>
+
+[contributors-shield]: https://img.shields.io/github/contributors/plang-psm/dice-game.svg?style=for-the-badge
+[contributors-url]: https://github.com/plang-psm/dice-game/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/plang-psm/dice-game.svg?style=for-the-badge
+[forks-url]: https://github.com/plang-psm/dice-game/network/members
+[stars-shield]: https://img.shields.io/github/stars/plang-psm/dice-game.svg?style=for-the-badge
+[stars-url]: https://github.com/plang-psm/dice-game/stargazers
+[issues-shield]: https://img.shields.io/github/issues/plang-psm/dice-game.svg?style=for-the-badge
+[issues-url]: https://github.com/plang-psm/dice-game/issues
+
